@@ -1,0 +1,8 @@
+[package]
+name = "comfyui_workflow_parser"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+serde_json = "1.0.118"
+serde = { version = "1.0.203", features = ["derive"] }
