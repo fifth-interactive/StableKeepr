@@ -1,4 +1,6 @@
 # StableKeepr
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffifth-interactive%2FStableKeepr.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffifth-interactive%2FStableKeepr?ref=badge_shield)
+
 
 _AI Generated Art Manager_
 
@@ -41,3 +43,7 @@ This will require dual licensing. I have not worked out all the details to that 
 but I wanted to put that out there so if you want to contribute, you know what you are getting into.
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffifth-interactive%2FStableKeepr.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffifth-interactive%2FStableKeepr?ref=badge_large)
