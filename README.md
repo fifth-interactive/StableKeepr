@@ -1,6 +1,6 @@
 # StableKeepr
 
-_Generative AI image management tool_
+_AI Generated Art Manager_
 
 Manage your AI-generated images with ease. Sort, filter, search, delete, and organize.
 
