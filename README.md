@@ -2,6 +2,8 @@
 
 _AI Generated Art Manager_
 
+[![Rust](https://github.com/fifth-interactive/StableKeepr/actions/workflows/rust.yml/badge.svg)](https://github.com/fifth-interactive/StableKeepr/actions/workflows/rust.yml)
+
 Manage your AI-generated images with ease. Sort, filter, search, delete, and organize.
 
 ## Feature Roadmap
@@ -37,7 +39,7 @@ and my hope is that it will be useful to others as well.
 I would love to be able to work on StableKeepr and things like it full time;
 to that end, I plan on having StableKeepr available as AGPL for free,
 and having "Professional" and "Enterprise" licenses available for a fee.
-This will require dual licensing. I have not worked out all the details to that yet,
+This may require dual licensing. I have not worked out all the details to that yet,
 but I wanted to put that out there so if you want to contribute, you know what you are getting into.
 
 
