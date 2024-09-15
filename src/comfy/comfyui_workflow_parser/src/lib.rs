@@ -209,6 +209,7 @@ impl<'de> Deserialize<'de> for WidgetValue {
     }
 }
 
+#[derive(Debug)]
 pub struct Prompts {
     pub positive: Option<Vec<String>>,
     pub negative: Option<Vec<String>>,

@@ -2,7 +2,7 @@
 
 _AI Generated Art Manager_
 
-[![Rust](https://github.com/fifth-interactive/StableKeepr/actions/workflows/rust.yml/badge.svg)](https://github.com/fifth-interactive/StableKeepr/actions/workflows/rust.yml)
+[![Rust](https://github.com/fifth-interactive/StableKeepr/actions/workflows/rust.yml/badge.svg)](https://github.com/fifth-interactive/StableKeepr/actions/workflows/rust.yml)[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffifth-interactive%2FStableKeepr.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffifth-interactive%2FStableKeepr?ref=badge_shield)
 
 Manage your AI-generated images with ease. Sort, filter, search, delete, and organize.
 
